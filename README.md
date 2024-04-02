@@ -4,9 +4,9 @@ This repository contains notebooks showcasing various Natural Language Processin
 
 ## Notebooks
 
-- [Tokenization.ipynb](Tokenization.ipynb): Notebook demonstrating tokenization techniques using NLTK and SpaCy.
-- [Stemming.ipynb](Stemming.ipynb): Implement stemming techniques with NLTK and SpaCy in Python using 'NLP - Stemming' notebook.
-- [Lemmatization.ipynb](Lemmatization.ipynb): Explore lemmatization methods in Python using NLTK and SpaCy within the 'NLP - Lemmatization' notebook.
+- [Tokenization](Tokenization.ipynb): Notebook demonstrating tokenization techniques using NLTK and SpaCy.
+- [Stemming](Stemming.ipynb): Implement stemming techniques with NLTK and SpaCy in Python using 'NLP - Stemming' notebook.
+- [Lemmatization](Lemmatization.ipynb): Explore lemmatization methods in Python using NLTK and SpaCy within the 'NLP - Lemmatization' notebook.
 
 ## Requirements
 
@@ -15,3 +15,6 @@ This repository contains notebooks showcasing various Natural Language Processin
 - NLTK
 - SpaCy
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
