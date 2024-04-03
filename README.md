@@ -5,8 +5,11 @@ This repository contains notebooks showcasing various Natural Language Processin
 ## Notebooks
 
 - [Tokenization](Tokenization.ipynb): Notebook demonstrating tokenization techniques using NLTK and SpaCy.
-- [Stemming](Stemming.ipynb): Implement stemming techniques with NLTK and SpaCy in Python using 'NLP - Stemming' notebook.
-- [Lemmatization](Lemmatization.ipynb): Explore lemmatization methods in Python using NLTK and SpaCy within the 'NLP - Lemmatization' notebook.
+- [Stemming](Stemming.ipynb): Implement stemming techniques with NLTK and SpaCy in Python
+- [Lemmatization](Lemmatization.ipynb): Explore lemmatization methods in Python using NLTK and SpaCy 
+- [Named Entity Recognition](NER.ipynb): Perform Named Entity Recognition (NER) using NLTK and SpaCy in Python. Understand how to identify and extract named entities such as person names, organization names, locations, etc.
+- [Part-of-Speech Tagging](POS_Tagging.ipynb): Implement POS tagging techniques with NLTK and SpaCy in Python. Learn how to assign grammatical categories to words in a text corpus, such as noun, verb, adjective, etc.
+- [Stopwords](Stopwords.ipynb): Demonstrate stopwords removal techniques using NLTK and SpaCy in Python. Understand how to filter out common words that do not carry significant meaning in text analysis tasks.
 
 ## Requirements
 
