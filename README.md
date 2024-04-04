@@ -4,12 +4,23 @@ This repository contains notebooks showcasing various Natural Language Processin
 
 ## Notebooks
 
-- [Tokenization](Tokenization.ipynb): Notebook demonstrating tokenization techniques using NLTK and SpaCy.
-- [Stemming](Stemming.ipynb): Implement stemming techniques with NLTK and SpaCy in Python
-- [Lemmatization](Lemmatization.ipynb): Explore lemmatization methods in Python using NLTK and SpaCy 
-- [Named Entity Recognition](NER.ipynb): Perform Named Entity Recognition (NER) using NLTK and SpaCy in Python. Understand how to identify and extract named entities such as person names, organization names, locations, etc.
-- [Part-of-Speech Tagging](POS_Tagging.ipynb): Implement POS tagging techniques with NLTK and SpaCy in Python. Learn how to assign grammatical categories to words in a text corpus, such as noun, verb, adjective, etc.
-- [Stopwords](Stopwords.ipynb): Demonstrate stopwords removal techniques using NLTK and SpaCy in Python. Understand how to filter out common words that do not carry significant meaning in text analysis tasks.
+- [Tokenization](Tokenization.ipynb) : Notebook demonstrating tokenization techniques using NLTK and SpaCy.
+- [Stemming](Stemming.ipynb) : Implemented stemming techniques with NLTK and SpaCy in Python
+- [Lemmatization](Lemmatization.ipynb) : Explored lemmatization methods in Python using NLTK and SpaCy 
+- [Named Entity Recognition](NER.ipynb) : Performed Named Entity Recognition (NER) using NLTK and SpaCy in Python. Understand how to identify and extract named entities such as person names, organization names, locations, etc.
+- [Part-of-Speech Tagging](POS_Tagging.ipynb) : Implemented POS tagging techniques with NLTK and SpaCy in Python. Learn how to assign grammatical categories to words in a text corpus, such as noun, verb, adjective, etc.
+- [Stopwords](Stopwords.ipynb) : Demonstrated stopwords removal techniques using NLTK and SpaCy in Python. Understand how to filter out common words that do not carry significant meaning in text analysis tasks.
+
+  Encoding Techniques -
+  - [One Hot Encoding](OneHotEncoding.ipynb) : Performed OHE on text documents into binary vectors, demonstrated using NLTK and SpaCy in Python.
+  - [Bag of Words](BagofWords.ipynb) :  Represented text documents as vectors based on word frequency, using NLTK and SpaCy in Python.
+  - [TF-IDF](TF_IDF.ipynb) : Assigns scores to words in documents based on their frequency (term frequency) and rarity (inverse document frequency), using NLTK and SpaCy in Python.
+  
+  Word Embedding -
+  - [Word2Vec](Word2Vec.ipynb) :
+  - [Avg Word2Vec](AvgWord2Vec.ipynb) :
+  - [GloVe](GloVe.ipynb) :
+  - [Fast Text](FastText.ipynb) :
 
 ## Requirements
 
@@ -17,7 +28,8 @@ This repository contains notebooks showcasing various Natural Language Processin
 - Jupyter Notebook/Google Colab
 - NLTK
 - SpaCy
-
+- Scikit learn
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
