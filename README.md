@@ -17,8 +17,8 @@ This repository contains notebooks showcasing various Natural Language Processin
   - [TF-IDF](TF_IDF.ipynb) : Assigns scores to words in documents based on their frequency (term frequency) and rarity (inverse document frequency), using NLTK and SpaCy in Python.
   
   Word Embedding -
-  - [Word2Vec](Word2Vec.ipynb) :
-  - [Avg Word2Vec](AvgWord2Vec.ipynb) :
+  - [Word2Vec](Word2Vec.ipynb) : Implementated of Word2Vec in Python using both pretrained and scratch-built models.
+  - [Avg Word2Vec](AvgWord2Vec.ipynb) : Utilization of average Word2Vec embeddings in Python, demonstrating efficient word embedding techniques for natural language processing tasks.
   - [GloVe](GloVe.ipynb) :
   - [Fast Text](FastText.ipynb) :
 
