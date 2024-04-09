@@ -19,8 +19,8 @@ This repository contains notebooks showcasing various Natural Language Processin
   Word Embedding -
   - [Word2Vec](Word2Vec.ipynb) : Implementated of Word2Vec in Python using both pretrained and scratch-built models.
   - [Avg Word2Vec](AvgWord2Vec.ipynb) : Utilization of average Word2Vec embeddings in Python, demonstrating efficient word embedding techniques for natural language processing tasks.
-  - [GloVe](GloVe.ipynb) :
-  - [Fast Text](FastText.ipynb) :
+  - [GloVe](GloVe.ipynb) : Utilized Stanford's pre-trained GloVe model for efficient word embedding in natural language processing tasks.
+  - [FastText](FastText.ipynb) :  Leveraged Gensim and the FastText library for effective text representation and classification using subword information and Skipgram architecture.
 
 ## Requirements
 
@@ -29,6 +29,7 @@ This repository contains notebooks showcasing various Natural Language Processin
 - NLTK
 - SpaCy
 - Scikit learn
+- Gensim
   
 ## License
 
